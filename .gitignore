@@ -1,0 +1,29 @@
+# Exclude the virtual environment directory
+venv/
+
+# Exclude the config directory
+config/
+
+# Exclude Python bytecode directories
+__pycache__/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.DS_Store
+
+Thumbs.db
+
+ehthumbs.db
+
+*.log
+
+.venv
+
+env/
+bin/
+include/
+lib/
+lib64/
+
